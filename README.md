@@ -37,7 +37,6 @@ Whether you’re a solo founder, a product manager, or part of an early-stage st
 
 - [Usage & Demo](#usage--demo)
 - [Input & Output](#input--output)
-- [Schema Reference](#schema-reference)
 - [Deployment & Integration](#deployment--integration)
 - [Enhancements & Roadmap](#enhancements--roadmap)
 - [License](#license)
@@ -115,7 +114,6 @@ Empower busy professionals to reflect and grow, even on their busiest days.
 
 ---
 
-## Schema Included 
 
 ## Deployment & Integration
 
@@ -143,6 +141,10 @@ ThinkFrame is designed to be modular and integration-friendly:
 * Output versioning & historical comparison
 
 Feel free to suggest improvements or collaborate! Open an issue or pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ## Acknowledgements
 

@@ -9,7 +9,7 @@ ThinkFrame is an AI-powered product strategy assistant that turns rough product 
 
 ## What is ThinkFrame?
 
-ThinkFrame is not just a chatbot—it’s a strategic partner in product thinking. When you share your raw product idea, ThinkFrame returns a fully structured report including:
+ThinkFrame is not just a chatbot: it’s a strategic partner in product thinking. When you share your raw product idea, ThinkFrame returns a fully structured report including:
 
 - Executive Summary  
 - Target User Personas  
